@@ -1,2 +1,3 @@
-# class2022Spring 영어음성학응용 (고려대학교 영어영문학과)
-## 강의 업로드 youtube channel NAMZ
+# Phonetics2022Spring
+
+### 2022년 봄학기 영어음성학응용 과제 제출용 레포입니다.
